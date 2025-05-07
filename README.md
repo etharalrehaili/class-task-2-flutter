@@ -1,16 +1,9 @@
-# day4
+# Class Task - Mini App with GetX ✨
 
-A new Flutter project.
+This is a Flutter Project with a heart toggle
 
-## Getting Started
+## Screenshots:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-05-07 111133](https://github.com/user-attachments/assets/fd13ef03-ae19-42d4-ae61-84f0a7af8517)
+![Screenshot 2025-05-07 111142](https://github.com/user-attachments/assets/fe750046-a329-4c9f-8b13-2a92671aab6f)
+![Screenshot 2025-05-07 111149](https://github.com/user-attachments/assets/bd1a51d8-58e8-4678-a426-110063903936)
